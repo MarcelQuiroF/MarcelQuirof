@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hola, soy Marcelo Quiroga 😺 
 
-<!--
-**MarcelQuiroF/MarcelQuirof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GIF](MarcelQuirof/24e58792-6ec6-4d1a-a59a-2cd88721fcfb.gif)
 
-Here are some ideas to get you started:
+### Estudiante de la carrera Ingeniera de sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 Estudie en el colegio La Salle
+- 📫 Participe en olimpiadas de Matematicas y Fisica
+- ✨ Me considero alguien bastante logico
+- 📕 Me gustan las materias practicas
+- 😄 Me gustaria aprender phyton y javascript
+
+### Contacto
+marceloquiroga120@gmail.com
