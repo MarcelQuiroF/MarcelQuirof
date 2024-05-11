@@ -12,7 +12,7 @@
 - 📕 Me gustan las materias practicas
 - 😄 Me gustaria aprender phyton y javascript
 
-# GRUPal
+## GRUPal
 
 ### Contacto
 marceloquiroga120@gmail.com
