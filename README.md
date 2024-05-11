@@ -18,9 +18,6 @@ https://github.com/MarcelQuiroF/Trabajos-Individuales
 Trabajos hechos con mi grupo de trabajo de la universidad: 
 https://github.com/MarcelQuiroF/Trabajos-Grupales
 
-## Trabajos de apoyo
-Trabajos hechos en su gran mayoria por parte del docente de mi universidad:
-https://github.com/MarcelQuiroF/Trabajo-de-apoyo-docente
 
 ### Contacto
 marceloquiroga120@gmail.com
